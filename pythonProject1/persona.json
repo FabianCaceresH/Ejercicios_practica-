@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "rodolfo el reno",
+        "apellido": "el reno",
+        "dni": 7,
+        "vestimenta": [
+            {
+                "prenda:": "zapatilla",
+                "cantidad": 4
+            },
+            {
+                "prenda:": "remeras",
+                "cantidad": 12
+            }
+        ]
+    },
+    {
+        "nombre": "santa claus",
+        "apellido": "claus",
+        "dni": 6,
+        "vestimenta": [
+            {
+                "prenda:": "zapatilla",
+                "cantidad": 4
+            },
+            {
+                "prenda:": "remeras",
+                "cantidad": 12
+            }
+        ]
+    }
+]
